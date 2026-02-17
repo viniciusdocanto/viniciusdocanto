@@ -19,12 +19,3 @@ Profissional com sólida experiência em desenvolvimento web iniciada em 2007, a
 | **Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://gh-stats.work/api/top-langs/?username=viniciusdocanto&layout=compact&langs_count=7&theme=dracula&custom_title=Tecnologias"/>
-  <img height="180em" src="https://gh-stats.work/api/?username=viniciusdocanto&show_icons=true&theme=dracula&count_private=true"/>
-</p>
-
----
