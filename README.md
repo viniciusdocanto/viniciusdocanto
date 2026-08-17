@@ -23,12 +23,12 @@ Profissional com sólida experiência em desenvolvimento web iniciada em 2007, a
 
 <p align="left">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=viniciusdocanto&show_icons=true&theme=monokai&include_all_commits=true&locale=pt-br"
+    src="https://github-stats-extended.vercel.app/api?username=viniciusdocanto&show_icons=true&theme=monokai&include_all_commits=true&locale=pt-br"
     width="420"
   />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viniciusdocanto&layout=compact&theme=monokai&locale=pt-br"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=viniciusdocanto&layout=compact&theme=monokai&locale=pt-br"
     width="390"
   />
 </p>
